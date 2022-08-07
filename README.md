@@ -121,15 +121,8 @@
 </br>
 
 <!-- Contribution Graph -->
-<a href="https://github.com/jash-desai">
-  <img align="middle" alt="Jash Desai's Contribution Graph" src="https://idk-what-this-thing-is.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6" />
-</a>
+[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6)](https://github.com/jash-desai/github-readme-activity-graph)
 
-<!-- ### Programmer's Quote of the Day: -->
-<!-- [![A bit of quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) -->
-
-<!-- ### Prgrammer's Joke of the Day: -->
-<!-- <a href="https://github.com/jash-desai/"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&textColor=%23db7093&aColor=%23ff91a4"></a> -->
 
 <a href="https://jash13desai.netlify.app">
   <img align="middle"  width="110%" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
