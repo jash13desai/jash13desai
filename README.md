@@ -116,9 +116,7 @@
 <!-- Commit Streak -->
 <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" width="325" height="140">
 
-<!-- Spotify - Now Playing - Account 02 -->  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem&bar_color=db709d&bar_color_cover=true)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
-</br>
+<!-- Spotify - Now Playing - Account 02   -->
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem&bar_color=db709d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&redirect=true)
 
