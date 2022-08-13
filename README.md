@@ -127,8 +127,3 @@
 <a href="https://jash13desai.netlify.app">
   <img align="middle"  width="110%" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 </a>
-<!-- 
-<a href="#top">
-  <img align="right" alt="Back To Top" height="35" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/BackToTop_2.gif">
-</a>
--->
