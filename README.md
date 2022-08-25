@@ -121,7 +121,7 @@
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem&bar_color=db709d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&redirect=true)
 
 <!-- Contribution Graph -->
-[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6)](https://github.com/jash-desai/github-readme-activity-graph)
+[![Github Activity Graph](https://idk-bruh.herokuapp.com/graph?username=jash-desai&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6)](https://github.com/jash-desai)
 
 
 <a href="https://jash13desai.netlify.app">
