@@ -26,7 +26,7 @@
 
 <!-- Social Media handles -- Starts -->
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
-<a href="https://www.linkedin.com/in/jade13/">
+<a href="https://www.linkedin.com/in/jash13desai/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
 <!--   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.gif" /> -->
 </a>
