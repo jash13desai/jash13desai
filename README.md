@@ -69,31 +69,34 @@
 <!-- Tech Stack -- Starts -->
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/bars.gif" height="31px"> `Tech Stack:`
 
-<a href="https://www.cprogramming.com/">
+<a href="https://www.cprogramming.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/c-original.svg" alt="c" width="38"/>
 </a>
-<a href="https://www.w3schools.com/cpp/">
+<a href="https://www.w3schools.com/cpp/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/cplusplus-original.svg" alt="cplusplus" width="38"/>
 </a>
-<a href="https://java.com/en/">
+<a href="https://java.com/en/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/java-icon.svg" alt="dart" width="38"/>
 </a>
-<a href="https://flutter.dev">
+<a href="https://flutter.dev" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/flutterio-icon.svg" alt="flutter" width="38"/>
 </a>
-<a href="https://html.spec.whatwg.org/">
+<a href="https://html.spec.whatwg.org/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/w3_html5-icon.svg" alt="HTML" width="38"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/css3.svg" alt="CSS" width="38"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/javascript-original.svg" alt="HTML" width="38"/>
 </a>
-<a href="https://dart.dev">
+<a href="https://dart.dev" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/dartlang-icon.svg" alt="dart" width="38"/>
 </a>
-<a href="https://firebase.google.com/">
+<a href="https://firebase.google.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/firebase-icon.svg" alt="firebase" width="38"/>
 </a>
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/git-scm-icon.svg" alt="git" width="38"/>
 </a>
 <!-- <a href="https://code.visualstudio.com/"> 
