@@ -4,7 +4,7 @@
 <h1 align="center"> Hey!👋🏻,  I'm... 
 <!-- The Name Card-->
   <a href="https://jash13desai.netlify.app/">
-    <img src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg">
+    <img src = "https://github.com/jash-desai/jash-desai/blob/main/MyName.svg?raw=true">
     <!-- Views Counter -->
     <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=db7093&style=plastic" alt="jash-desai" /></p>
   </a>
