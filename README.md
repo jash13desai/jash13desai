@@ -19,8 +19,8 @@
 - 🔭 I’m currently working on <b>Flutter Project.</b>
 - 🌱 I’m currently learning <b>Web Dev.</b>
 - 📫 Reach me anytime at <b>jash.13.desai@gmail.com</b>.
-<!-- - 🔖 Check out my Portfolio <a href ="https://jash13desai.netlify.app" target="_blank" />here</a>. -->
 - ✨ Here's my <a href="https://profile-summary-for-github.com/user/jash-desai" target="_blank" /> Profile Summary </a> have a look!
+<!-- - 🔖 Check out my Portfolio <a href ="https://jash13desai.netlify.app" target="_blank" />here</a>. -->
 <!-- - 🤔 I’m looking for help with <b>OpenSource and CP.</b> -->
 </p>
 
