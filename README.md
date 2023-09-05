@@ -15,11 +15,11 @@
 <!-- Introduction Points with GIF -->
 <img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif" />
   
-### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" height="31px" /> `Here's my Intro:` 
-- 🔭 I’m currently working on <b>Flutter Project.</b>
-- 🌱 I’m currently learning <b>Web Dev.</b>
+### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
 - 📫 Reach me anytime at <b>jash.13.desai@gmail.com</b>.
 - ✨ Here's my <a href="https://profile-summary-for-github.com/user/jash-desai" target="_blank" /> Profile Summary </a> have a look!
+<!-- - 🔭 I’m currently working on <b>Flutter Project.</b> -->
+<!-- - 🌱 I’m currently learning <b>Web Dev.</b> -->
 <!-- - 🔖 Check out my Portfolio <a href ="https://jash13desai.netlify.app" target="_blank" />here</a>. -->
 <!-- - 🤔 I’m looking for help with <b>OpenSource and CP.</b> -->
 </p>
