@@ -16,6 +16,7 @@
 <img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif" />
   
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" height="31px" /> `Here's my Intro:`
+- 🌱 I’m currently practising Data Structures & Algorithms.
 - 📫 Reach me anytime at <b>jash.13.desai@gmail.com</b>.
 - ✨ Here's my <a href="https://profile-summary-for-github.com/user/jash-desai" target="_blank" /> Profile Summary </a> have a look!
 <!-- - 🔭 I’m currently working on <b>Flutter Project.</b> -->
