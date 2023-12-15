@@ -1,16 +1,10 @@
-<!-- Intro Text! -->
-<!--  -->
-<!-- <div id="top"></div> -->
 <h1 align="center"> Hey!👋🏻,  I'm... 
-<!-- The Name Card-->
   <a href="https://jash13desai.netlify.app/">
     <img src = "https://github.com/jash13desai/jash13desai/blob/main/MyName.svg?raw=true">
     <!-- Views Counter -->
     <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=db7093&style=plastic" alt="jash13desai" /></p>
   </a>
 </h1>
-<!-- Header Ends here! -->
-<!-- Body begins! -->
 
 <!-- Introduction Points with GIF -->
 <img align="right" height="215px"  src="https://raw.githubusercontent.com/jash13desai/jash13desai/main/gifs/hello.gif" />
